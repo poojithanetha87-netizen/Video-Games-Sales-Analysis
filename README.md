@@ -195,7 +195,9 @@ The project utilizes advanced DAX to drive dashboard visuals:
 
 - VideoGames_Enagegment_Analysis
 
-![Games engagement Analysis](Games engagement Analysis.png)
+<img width="1678" height="747" alt="Games engagement Analysis" src="https://github.com/user-attachments/assets/88311efa-550c-4611-b3bb-8552e620658b" />
+
+
 
 
 
@@ -205,7 +207,7 @@ The project utilizes advanced DAX to drive dashboard visuals:
 
 - Sales And Performance Analysis
   
-![Sales and performance Analysis](Sales and performance Analysis.png)
+<img width="1311" height="735" alt="Sales and performance Analysis" src="https://github.com/user-attachments/assets/3e060351-86ea-4916-972e-71729e7befe2" />
 
 
 
