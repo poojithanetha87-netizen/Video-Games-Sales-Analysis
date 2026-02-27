@@ -81,7 +81,7 @@ The project aims to analyze and visualize video game sales and engagement data t
 
 🧹 **Data Validation & Cleaning (Python)** 
 
-- Before analysis, the raw dataset was processed to ensure accuracy:
+- Before analysis, the raw dataset was processed to ensure accuracy: [Data Cleaning, Modeling &Tranformation Steps Doc](https://docs.google.com/document/d/1rbM4E2wrficTpaupf_1VSGisdngNHPJbCKnO7RV3tyI/edit?tab=t.0#heading=h.np4x6e62vg2g)
 
 
 **Data Type Standardization:** Converted columns like Release_Date to datetime and standardized numeric fields such as Rating, Plays, and Wishlist.
@@ -183,7 +183,7 @@ The project utilizes advanced DAX to drive dashboard visuals:
 
 **Database:** PostgreSQL (Relational Modeling, Views, Window Functions).
 
-
+**Project Documention**[Video Game Engagement  And Sales Analysis](https://docs.google.com/document/d/1PqW_7oCmV_49lIvauSpfZVDKVXL0T7eyDOd8T3lYaiM/edit?tab=t.0)
 
 **Visualization:** Power BI Desktop.
 
