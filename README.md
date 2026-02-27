@@ -14,7 +14,7 @@ _Project Goal: Developed a full-scale ETL and analytics pipeline for a global vi
 - <a href="#power-bi--dax-metrics">Power BI & DAX Metrics</a>
 - <a href="#Tools--Technologies">Tools & Technologies</a>
 - <a href="#dashboard">Dashboard</a>
-
+- <a href="#Documentation">Documentation</a>
 
 
 
@@ -81,7 +81,7 @@ The project aims to analyze and visualize video game sales and engagement data t
 
 🧹 **Data Validation & Cleaning (Python)** 
 
-- Before analysis, the raw dataset was processed to ensure accuracy: [Data Cleaning, Modeling &Tranformation Steps Doc](https://docs.google.com/document/d/1rbM4E2wrficTpaupf_1VSGisdngNHPJbCKnO7RV3tyI/edit?tab=t.0#heading=h.np4x6e62vg2g)
+- Before analysis, the raw dataset was processed to ensure accuracy: 
 
 
 **Data Type Standardization:** Converted columns like Release_Date to datetime and standardized numeric fields such as Rating, Plays, and Wishlist.
@@ -183,7 +183,6 @@ The project utilizes advanced DAX to drive dashboard visuals:
 
 **Database:** PostgreSQL (Relational Modeling, Views, Window Functions).
 
-**Project Documention**[Video Game Engagement  And Sales Analysis](https://docs.google.com/document/d/1PqW_7oCmV_49lIvauSpfZVDKVXL0T7eyDOd8T3lYaiM/edit?tab=t.0)
 
 **Visualization:** Power BI Desktop.
 
@@ -199,8 +198,6 @@ The project utilizes advanced DAX to drive dashboard visuals:
 
 
 
-
-
 - Regional Sales Analysis
 
 <img width="1514" height="739" alt="Reginal Sales Analysis" src="https://github.com/user-attachments/assets/0bb9e690-dbd8-49ed-8def-7286b5553d43" />
@@ -209,8 +206,10 @@ The project utilizes advanced DAX to drive dashboard visuals:
   
 <img width="1311" height="735" alt="Sales and performance Analysis" src="https://github.com/user-attachments/assets/3e060351-86ea-4916-972e-71729e7befe2" />
 
+<h2><a class="anchor" id="#Documentation"></a>Documentation</h2>
 
+**[Data Cleaning, Modeling &Tranformation Steps Doc**:[Data Cleaning, Modeling &Tranformation Steps Doc](https://docs.google.com/document/d/1rbM4E2wrficTpaupf_1VSGisdngNHPJbCKnO7RV3tyI/edit?tab=t.0#heading=h.np4x6e62vg2g)
 
-
+**Project Documention**:[Video Game Engagement  And Sales Analysis](https://docs.google.com/document/d/1PqW_7oCmV_49lIvauSpfZVDKVXL0T7eyDOd8T3lYaiM/edit?tab=t.0)
 
 
